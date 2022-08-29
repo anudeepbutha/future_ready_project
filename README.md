@@ -18,4 +18,4 @@ Any Comments and messages can be sent using the CONTACT US section. This shows i
 Other details regarding the address, contact number and mail have been included as follows
 
 ![Screenshot (239)](https://user-images.githubusercontent.com/111654636/187262727-6cda0d90-e336-480c-b9ac-cccae9321f78.png)
-The link for website is 
+The link for website is-https://purple-wave-075bd8b10.1.azurestaticapps.net/
